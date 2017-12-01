@@ -79,6 +79,9 @@
       "xo-react/space",
       "xo-space/esnext"
     ],
-    "parser": "babel-eslint"
+    "parser": "babel-eslint",
+    "rules": {
+      "linebreak-style": [2, "windows"]
+    }
   }
 }
